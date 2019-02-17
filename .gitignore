@@ -1,0 +1,11 @@
+# env
+bin
+etc
+include
+lib
+share
+pyenv.cfg
+
+# jupyter stuff
+.ipynb_checkpoints
+Housing.ipynb
